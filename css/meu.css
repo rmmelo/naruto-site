@@ -1,0 +1,71 @@
+body {
+    background-color: wheat;
+}
+  
+
+header {
+
+    background-color: cyan;
+    border-top-left-radius: 2rem;
+    border-top-right-radius: 2rem;
+    
+}
+
+#header-naruto p,
+#header-naruto h1 {
+    padding-left: 80px;
+    padding-top: 40px;
+    color: rgb(37, 37, 0);
+}
+
+
+.img-header {
+    margin-top: 10px;
+}
+ 
+.frase-efeito {
+    text-align: center;
+    padding-bottom: 30px;
+    padding-top: 30px;
+    
+}
+
+h1,h2 {
+    font-weight: 600;
+    color: darkcyan;
+}
+nav {
+    text-align: center;
+    background-color: cyan;
+    
+}
+nav h2 {
+    font-size: smaller;
+}
+
+article{
+    text-align: center;
+    margin-bottom: 100px;
+   
+}
+
+.kakashi {
+    padding-top: 50px;
+    text-align: center;
+    margin-bottom: 100px;
+}
+footer {
+    border-radius: 0.7rem;
+    background-color: cyan;
+
+}
+ul li {
+    list-style-type: none;
+}
+.list-footer {
+    text-decoration: none;
+    margin-top: 50px;
+    padding-left: 120px;
+    font-weight: 600;
+    
+}
